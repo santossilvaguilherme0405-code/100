@@ -126,7 +126,7 @@ A imagem utilizada é uma fotografia registrada pelo próprio autor.
 ## 📚 Referências
 
 - [nutricaodesafras.com — Agricultura sustentável](https://nutricaodesafras.com.br/o-que-e-agricultura-sustentavel)
-- [gov.br — Ministério da agricultura: Boas Práticas Agrícolas](https://www.gov.br/agricultura/pt-br/assuntos/noticias/2025/conheca-as-boas-praticas-agricolas-que-geram-sustentabilidade-e-oportunidades-na-agricultura))
+- [gov.br — Ministério da agricultura: Boas Práticas Agrícolas](https://www.gov.br/agricultura/pt-br/assuntos/noticias/2025/conheca-as-boas-praticas-agricolas-que-geram-sustentabilidade-e-oportunidades-na-agricultura)
 - [Simepar — Sistema Meteorológico do Paraná](https://www.simepar.br)
 - [Embrapa — Empresa Brasileira de Pesquisa Agropecuária](https://www.embrapa.br)
 - [IFAL — AGROPECUÁRIA SUSTENTÁVEL](https://www2.ifal.edu.br/campus/satuba/noticias/professora-do-campus-satuba-publica-cartilha-sobre-agropecuaria-sustentavel/praticas-sustentaveis-como-ferramentas-para-assegurar-a-preservacao-do-meio-ambiente-completo.pdf)
@@ -134,7 +134,7 @@ A imagem utilizada é uma fotografia registrada pelo próprio autor.
 - [editoraime.com. — SUSTENTABILIDADE NO CONTROLE DE PRAGAS AGRÍCOLAS](https://editoraime.com.br/revistas/rema/article/view/1699)
 - [sistemafaep.org — SOLUÇÕES DA AGROPECUÁRIA PARANAENSE PARA A AGENDA CLIMÁTICA](https://www.sistemafaep.org.br/wp-content/uploads/2025/10/COP-30-Sistema-FAEP_versao-resumida.pdf)
 - [ANA — Agência Nacional de Águas](https://www.gov.br/ana)
-- [ZARC - Zoneamento Agrícola de Risco Climático](https://mapaindicadores.agricultura.gov.br/publico/extensions/Zarc/Zarc.html))
+- [ZARC - Zoneamento Agrícola de Risco Climático](https://mapaindicadores.agricultura.gov.br/publico/extensions/Zarc/Zarc.html)
 - [aegro — Alta Produção Agrícola](https://aegro.com.br/blog/segredos-da-alta-producao-agricola/)
 - [Secretaria da Agricultura do Paraná](https://www.agricultura.pr.gov.br)
 
