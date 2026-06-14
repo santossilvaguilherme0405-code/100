@@ -125,8 +125,8 @@ A imagem utilizada é uma fotografia registrada pelo próprio autor.
 ---
 ## 📚 Referências
 
-- [bemagro.com — Benefícios da IA no Campo](https://www.bemagro.com/beneficios-inteligencia-artificial-no-campo/)
-- [agrolink.com.br — O Campo Conectado: como a IA transforma o agro](https://www.agrolink.com.br/noticias/o-campo-conectado--como-a-ia-vem-transformando-o-agro_514351.html)
+- [nutricaodesafras.com — Agricultura sustentável]((https://nutricaodesafras.com.br/o-que-e-agricultura-sustentavel))
+- [gov.br — Ministério da agricultura: Boas Práticas Agrícolas](https://www.gov.br/agricultura/pt-br/assuntos/noticias/2025/conheca-as-boas-praticas-agricolas-que-geram-sustentabilidade-e-oportunidades-na-agricultura))
 - [Simepar — Sistema Meteorológico do Paraná](https://www.simepar.br)
 - [Embrapa — Empresa Brasileira de Pesquisa Agropecuária](https://www.embrapa.br)
 - [ANA — Agência Nacional de Águas](https://www.gov.br/ana)
