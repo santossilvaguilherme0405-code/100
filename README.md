@@ -125,7 +125,7 @@ A imagem utilizada é uma fotografia registrada pelo próprio autor.
 ---
 ## 📚 Referências
 
-- [nutricaodesafras.com — Agricultura sustentável]((https://nutricaodesafras.com.br/o-que-e-agricultura-sustentavel))
+- [nutricaodesafras.com — Agricultura sustentável](https://nutricaodesafras.com.br/o-que-e-agricultura-sustentavel)
 - [gov.br — Ministério da agricultura: Boas Práticas Agrícolas](https://www.gov.br/agricultura/pt-br/assuntos/noticias/2025/conheca-as-boas-praticas-agricolas-que-geram-sustentabilidade-e-oportunidades-na-agricultura))
 - [Simepar — Sistema Meteorológico do Paraná](https://www.simepar.br)
 - [Embrapa — Empresa Brasileira de Pesquisa Agropecuária](https://www.embrapa.br)
