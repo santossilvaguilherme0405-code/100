@@ -134,6 +134,8 @@ A imagem utilizada é uma fotografia registrada pelo próprio autor.
 - [editoraime.com. — SUSTENTABILIDADE NO CONTROLE DE PRAGAS AGRÍCOLAS](https://editoraime.com.br/revistas/rema/article/view/1699)
 - [sistemafaep.org — SOLUÇÕES DA AGROPECUÁRIA PARANAENSE PARA A AGENDA CLIMÁTICA](https://www.sistemafaep.org.br/wp-content/uploads/2025/10/COP-30-Sistema-FAEP_versao-resumida.pdf)
 - [ANA — Agência Nacional de Águas](https://www.gov.br/ana)
+- [ZARC - Zoneamento Agrícola de Risco Climático](https://mapaindicadores.agricultura.gov.br/publico/extensions/Zarc/Zarc.html))
+- [aegro — Alta Produção Agrícola](https://aegro.com.br/blog/segredos-da-alta-producao-agricola/)
 - [Secretaria da Agricultura do Paraná](https://www.agricultura.pr.gov.br)
 
 ---
