@@ -17,7 +17,7 @@ O **AgroFuture** é um site que combina tecnologia, sustentabilidade e informaç
 |---|---|
 | 🌾 **Diagnóstico Agrícola** | Recomendações de culturas, estratégias e crédito por cidade e porte |
 | 🌦️ **Clima em Tempo Real** | Dados via OpenWeatherMap com geolocalização automática |
-| 🌱 **Central Educacional** | 12 temas sobre agricultura sustentável, tecnologia e meio ambiente |
+| 🌱 **Central Educacional** | 20 temas sobre agricultura sustentável, tecnologia e meio ambiente |
 | 📞 **Central de Ajuda** | Links para Simepar, Embrapa, ANA e Secretaria da Agricultura-PR |
 | 💬 **Comentários** | Área para interação dos visitantes (sessão atual) |
 | ♿ **Acessibilidade** | Zoom de fonte, modo claro/escuro e leitura por voz (Web Speech API) |
@@ -129,6 +129,10 @@ A imagem utilizada é uma fotografia registrada pelo próprio autor.
 - [gov.br — Ministério da agricultura: Boas Práticas Agrícolas](https://www.gov.br/agricultura/pt-br/assuntos/noticias/2025/conheca-as-boas-praticas-agricolas-que-geram-sustentabilidade-e-oportunidades-na-agricultura))
 - [Simepar — Sistema Meteorológico do Paraná](https://www.simepar.br)
 - [Embrapa — Empresa Brasileira de Pesquisa Agropecuária](https://www.embrapa.br)
+- [IFAL — AGROPECUÁRIA SUSTENTÁVEL](https://www2.ifal.edu.br/campus/satuba/noticias/professora-do-campus-satuba-publica-cartilha-sobre-agropecuaria-sustentavel/praticas-sustentaveis-como-ferramentas-para-assegurar-a-preservacao-do-meio-ambiente-completo.pdf)
+- [canalrural.com — Cooperativismo ganha força na agricultura regenerativa](https://www.canalrural.com.br/agricultura/cooperativismo-ganha-forca-na-agricultura-regenerativa-e-se-destaca-na-cop30/)
+- [editoraime.com. — SUSTENTABILIDADE NO CONTROLE DE PRAGAS AGRÍCOLAS](https://editoraime.com.br/revistas/rema/article/view/1699)
+- [sistemafaep.org — SOLUÇÕES DA AGROPECUÁRIA PARANAENSE PARA A AGENDA CLIMÁTICA](https://www.sistemafaep.org.br/wp-content/uploads/2025/10/COP-30-Sistema-FAEP_versao-resumida.pdf)
 - [ANA — Agência Nacional de Águas](https://www.gov.br/ana)
 - [Secretaria da Agricultura do Paraná](https://www.agricultura.pr.gov.br)
 
